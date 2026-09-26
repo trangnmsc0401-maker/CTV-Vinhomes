@@ -1,0 +1,13 @@
+{
+  "name": "ctv-vinhomes",
+  "version": "1.0.0",
+  "description": "Website tuyển cộng tác viên bán bất động sản Vinhomes toàn quốc",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
